@@ -2,15 +2,22 @@ body{
     font-family: 'Lato', sans-serif;
 
 }
-h3{
+p.parent2{
     background-color: white;
 }
 
 
-h4{
+p.parent3{
     text-align: center;
     color: white;
     background-image: url("img/footer_bg.png")
+}
+
+h2{
+    font-size: 26px;
+    line-height: 30px;
+    margin-left: 50px;
+    margin-top: 50px;
 }
 
 .center{
@@ -30,7 +37,7 @@ h4{
 .image{
     position: absolute;
     top: 0px;
-    left: 0px;
+    left: 20px;
 }
 
 .background{
