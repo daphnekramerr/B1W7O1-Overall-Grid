@@ -14,10 +14,23 @@ p.parent3{
 }
 
 h2{
+    position: absolute;
     font-size: 26px;
     line-height: 30px;
-    margin-left: 50px;
-    margin-top: 50px;
+    margin-left: 750px;
+    margin-top: 400px;
+    color: white;
+}
+
+
+
+.text{
+    position: absolute;
+    font-size: 26px;
+    line-height: 30px;
+    margin-left: 750px;
+    margin-top: 400px;
+    color: white;
 }
 
 .center{
